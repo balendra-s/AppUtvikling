@@ -14,6 +14,7 @@ public class AuthorController {
     public AuthorController() {
         authors = new ArrayList<>();
         fillWithAuthors();
+
     }
 
     private void fillWithAuthors() {
